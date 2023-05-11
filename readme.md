@@ -3,26 +3,42 @@
 
 
 - [🔥暨南大学计算机848报考信息汇总](#信息)
-  * [💡经验贴](#经验贴)
-    + [💭2023年](#经验贴2023)
-    + [💭2022年](#经验贴2022)
-    + [💭2021年](#经验贴2021)
-    + [💭2020年](#经验贴2020)
-    + [💭2019年](#经验贴2019)
+  * [💡 前言](#前言)
+  * [💡 经验贴](#经验贴)
+    + [💭 2023年](#经验贴2023)
+    + [💭 2022年](#经验贴2022)
+    + [💭 2021年](#经验贴2021)
+    + [💭 2020年](#经验贴2020)
+    + [💭 2019年](#经验贴2019)
+
+<a name="前言"></a>
+# 💡 前言
+> update date: 2023-04-12
+> 
+> author: 22计专阿觉
+> 
+> 借鉴仓库: [https://github.com/Steve0x2a/JNU_CS](https://github.com/Steve0x2a/JNU_CS)
+>
+> 24暨南大学计算机/网安考研群：736465889
+> 
+> 转载请注明来源，谢谢。
 
 
 <a name="经验贴"></a>
-# 💡经验贴
+# 💡 经验贴
 
 帖子来自各大平台，汇总起来可以方便学弟学妹们进行查阅（如有遗漏可以issue，如若侵删
 
 
 <a name="经验贴2023"></a>
-## 💭2023年
+## 💭 2023年
 1. [2023 暨南大学计算机专硕（电子信息计算机技术方向）考研经验分享_微波炉](https://blog.csdn.net/GapCold/article/details/130063782)
+2. [2023暨南大学848（计算机技术）经验贴（专业课第一，复试逆袭三十名）](https://zhuanlan.zhihu.com/p/619716469)
+3. [【2023】暨南大学计算机专硕上岸经验分享](https://zhuanlan.zhihu.com/p/620871535)
+
 
 <a name="经验贴2022"></a>
-## 💭2022年
+## 💭 2022年
 1.  [【考研】2022暨南大学848 电子信息（计算机技术） 经验贴](https://blog.csdn.net/zhanjuex/article/details/124440686)
 2.	[关于我考研的这一年随记 —— 2022暨南大学电子信息计算机技术专业初试第三复试第一](https://blog.csdn.net/qq_43779149/article/details/123930839)
 3.	[2022暨南大学计算机考研心得纪录贴](https://zhuanlan.zhihu.com/p/493090224)
@@ -36,7 +52,7 @@
 
 
 <a name="经验贴2021"></a>
-## 💭2021年
+## 💭 2021年
 1.	[2021暨南大学计算机技术上岸经验贴_007havegone的博客](https://blog.csdn.net/qq_40512922/article/details/115348549)
 2.	[2021暨南大学计算机考研复试经验贴](https://zhuanlan.zhihu.com/p/454557985)
 3.	[暨南大学21考研计算机上岸吐槽贴经验贴流水账_叶寄云的博客](https://blog.csdn.net/qq_43526805/article/details/116200714)
@@ -50,7 +66,7 @@
 
 
 <a name="经验贴2020"></a>
-## 💭2020年
+## 💭 2020年
 1.	[20考研 暨南大学计算机专硕经验贴](https://zhuanlan.zhihu.com/p/143931124)
 2.	[2020暨南大学计学考研经验分享](https://zhuanlan.zhihu.com/p/145184067)
 3.	[2020暨南大学计算机学硕上岸经验分享ʕ •ᴥ•ʔ_GaGong_Dei的博客](https://blog.csdn.net/qq_40121893/article/details/106711989)
@@ -64,7 +80,7 @@
 
 
 <a name="经验贴2019"></a>
-## 💭2019年
+## 💭 2019年
 1.	[2019上岸暨南大学—跨考篇](http://www.cskaoyan.com/forum.php?mod=viewthread&tid=654671&highlight=%F4%DF%C4%CF%B4%F3%D1%A7)
 2.	[19二本跨考暨南大学计算机技术上岸超详细经验帖](http://www.cskaoyan.com/forum.php?mod=viewthread&tid=656533&highlight=%F4%DF%C4%CF%B4%F3%D1%A7)
 3.	[19级暨南大学计算机考研经验分享帖（非常详细）](http://www.cskaoyan.com/forum.php?mod=viewthread&tid=654704&highlight=%F4%DF%C4%CF%B4%F3%D1%A7)
